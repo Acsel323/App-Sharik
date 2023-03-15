@@ -1,0 +1,14 @@
+Installing 2 SDK 48.0.0 compatible native modules using npm.
+> npm install
+
+added 4 packages, and audited 1257 packages in 4s
+
+63 packages are looking for funding
+  run `npm fund` for details
+
+5 high severity vulnerabilities
+
+To address all issues (including breaking changes), run:
+  npm audit fix --force
+
+Run `npm audit` for details.
